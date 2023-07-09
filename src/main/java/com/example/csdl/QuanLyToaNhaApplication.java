@@ -2,12 +2,12 @@ package com.example.csdl;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//@EnableSwagger2
 @SpringBootApplication
-public class CsdlApplication {
+public class QuanLyToaNhaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CsdlApplication.class, args);
+		SpringApplication.run(QuanLyToaNhaApplication.class, args);
 	}
 
 }
